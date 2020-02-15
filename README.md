@@ -1,5 +1,7 @@
-## HackerEarthTask
-this is the task to Solve hackerearth problem 
+#  HackerEarthTask
+ 
 
-#The Task description is available in Task Folder 
+**Task**
+
+![image]( https://github.com/Aaditay/HackerEarthTask/blob/master/Task/Task.jpeg)
 
